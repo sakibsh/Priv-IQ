@@ -35,3 +35,45 @@ python inference/gemini_vision.py --priviq_path /path/to/priv-iq
 python priv-iq_evaluator.py --priviq_path /path/to/priv-iq --result_file results/llava_llama2_13b_chat.json
 ```
 If you cannot access GPT-4o, you can upload your model output results (JSON file) to Priv-IQ online evaluator [Hugging Face Space](https://huggingface.co/spaces/skb678/PRIV-IQ) to get the grading results.
+
+## Some samples on Priv-IQ
+![Priv-IQ example 1](<img width="612" alt="v1_2" src="https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c">)
+
+**Q**: Does the image contain any sensitive information that could be a privacy risk?
+
+**GT**: Yes, this image shows a bank document with sensitive information like Account number and transaction details on a desk next to a monitor and a blue bag.
+
+**Required capabilities**: Visual Privacy, Contextual Privacy Understanding
+
+---
+
+![Priv-IQ example 2](<img width="523" alt="v1_42" src="https://github.com/user-attachments/assets/f8184d0b-7f08-484e-8c26-a29f29d22fb5">)
+
+**Q**: List any unique named entities in the image and classify them.
+
+**GT**: ООН (United NationsRU): ORGANIZATION, 2. Международный день студенческого спорта: EVENT, 3. UNESCO: ORGANIZATION
+
+**Required capabilities**: Named Entity Recognition, Contextual Privacy Understanding, Multilingual Understanding
+
+---
+
+![Priv-IQ example 3](![v1_63](https://github.com/user-attachments/assets/e84f4e52-f472-440a-ba37-c00f056fe001))
+
+**Q**: Explain the privacy method.
+
+**GT**: Homomorphic encryption is a cryptographic technique that allows computations to be performed on encrypted data without decrypting it first. In the example, the plaintext values 10 and 15 are encrypted to 100 and 150, respectively. The addition operation is then performed on the encrypted values, resulting in 250. Finally, the encrypted result is decrypted to obtain the original plaintext result of 25.
+
+**Required capabilities**: Privacy Enhancing Technologies, Contextual Privacy Understanding
+
+---
+
+![Priv-IQ example 4](![Picture1](https://github.com/user-attachments/assets/920f9982-5255-48aa-874d-8d6a1ff1b3a5))
+
+**Q**: Does the institution comply with GDPR’s standards?
+
+**GT**: No, retaining bank account numbers while replacing names does not fully comply with GDPR, as bank account numbers are considered direct identifiers and should be anonymized or protected with adequate privacy-preserving measures.
+
+**Required capabilities**: Privacy Law and Regulations, General Privacy Knowledge
+
+---
+
