@@ -37,7 +37,7 @@ python priv-iq_evaluator.py --priviq_path /path/to/priv-iq --result_file results
 If you cannot access GPT-4o, you can upload your model output results (JSON file) to Priv-IQ online evaluator [Hugging Face Space](https://huggingface.co/spaces/skb678/PRIV-IQ) to get the grading results.
 
 ## Some samples on Priv-IQ
-![Priv-IQ example 1](<img width="612" alt="v1_2" src="https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c">)
+![Priv-IQ example 1](https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c)
 
 **Q**: Does the image contain any sensitive information that could be a privacy risk?
 
@@ -47,7 +47,7 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ---
 
-![Priv-IQ example 2](<img width="523" alt="v1_42" src="https://github.com/user-attachments/assets/f8184d0b-7f08-484e-8c26-a29f29d22fb5">)
+![Priv-IQ example 2](https://github.com/user-attachments/assets/f8184d0b-7f08-484e-8c26-a29f29d22fb5>)
 
 **Q**: List any unique named entities in the image and classify them.
 
@@ -57,7 +57,7 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ---
 
-![Priv-IQ example 3](![v1_63](https://github.com/user-attachments/assets/e84f4e52-f472-440a-ba37-c00f056fe001))
+![Priv-IQ example 3](https://github.com/user-attachments/assets/e84f4e52-f472-440a-ba37-c00f056fe001)
 
 **Q**: Explain the privacy method.
 
@@ -67,7 +67,7 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ---
 
-![Priv-IQ example 4](![Picture1](https://github.com/user-attachments/assets/920f9982-5255-48aa-874d-8d6a1ff1b3a5))
+![Priv-IQ example 4](https://github.com/user-attachments/assets/920f9982-5255-48aa-874d-8d6a1ff1b3a5)
 
 **Q**: Does the institution comply with GDPR’s standards?
 
