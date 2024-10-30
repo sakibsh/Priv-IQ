@@ -5,6 +5,8 @@ Priv-IQ includes a new multimodal benchmark focusing on core privacy competencie
 <img src="https://cdn-uploads.huggingface.co/production/uploads/65cbacdf51c1738a55be76fd/PjRE7dbzeps-nJ_o_7srq.jpeg" width="400"> <br>
 </p>
 
+<img width="1097" alt="Screenshot 2024-10-29 at 8 07 06 PM" src="https://github.com/user-attachments/assets/8c99c19e-99b5-4f8d-9865-306aff410e02">
+
 [<a href="https://arxiv.org/abs/2308.02490">Paper Coming Soon</a>] 
 [<a href="https://github.com/sakibsh/Priv-IQ/releases/download/data/Priv-IQ.zip">Download Dataset</a>]
 [<a href="https://huggingface.co/spaces/skb678/PRIV-IQ/tree/main/privIQ">Dataset on Hugging Face</a>]
