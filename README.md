@@ -43,6 +43,11 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 <img width="815" alt="Screenshot 2024-10-30 at 3 41 59 PM" src="https://github.com/user-attachments/assets/dca74650-b350-47ca-97e3-ecf22a7ada31">
 <img width="807" alt="Screenshot 2024-10-30 at 3 42 36 PM" src="https://github.com/user-attachments/assets/446109da-f445-45ef-a35d-bab67d72fba0">
 
+## Claude 3.5 Sonnet Prediction Examples
+
+<img width="707" alt="Screenshot 2024-10-30 at 3 47 29 PM" src="https://github.com/user-attachments/assets/acfb7308-ed7b-4097-8cf1-c15ea0db2849">
+<img width="737" alt="Screenshot 2024-10-30 at 3 49 24 PM" src="https://github.com/user-attachments/assets/45cd565e-40be-4b86-8f56-458e466004cb">
+
 
 ## GPT-4o Prediction Examples
 
