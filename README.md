@@ -58,12 +58,16 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 <img width="729" alt="Screenshot 2024-10-30 at 3 58 32 PM" src="https://github.com/user-attachments/assets/d6d5af87-86c6-4a1b-8ccb-43a1188a2b4c">
 
 ## Gemini 1.5 Pro Prediction Examples
+<img width="725" alt="Screenshot 2024-10-30 at 4 01 50 PM" src="https://github.com/user-attachments/assets/dfbb50f5-d70d-4d20-a5eb-59f734ffb00c">
 
-<img width="1033" alt="Screenshot 2024-10-30 at 10 11 37 AM" src="https://github.com/user-attachments/assets/453053ed-881f-43ce-a729-c152e61ec934">
+## Gemini 1.5 Flash Prediction Examples
+<img width="725" alt="Screenshot 2024-10-30 at 4 01 50 PM" src="https://github.com/user-attachments/assets/60db0923-6bbd-4d16-8e19-198de543853f">
+<img width="916" alt="Screenshot 2024-10-30 at 4 03 39 PM" src="https://github.com/user-attachments/assets/dcc4ceff-ba37-4a9c-b3bb-d7f821a3675a">
 
-<img width="999" alt="Screenshot 2024-10-30 at 10 11 44 AM" src="https://github.com/user-attachments/assets/dbbd2ee8-fe0a-42c5-b5f0-67b03f2d34db">
+## Deepseek VL Prediction Examples
+<img width="1099" alt="Screenshot 2024-10-30 at 4 07 29 PM" src="https://github.com/user-attachments/assets/717d4926-011d-4105-8363-ccfe8ba4917e">
+<img width="999" alt="Screenshot 2024-10-30 at 4 07 52 PM" src="https://github.com/user-attachments/assets/75862725-91a7-4528-a7f1-6a78cb2a3da4">
 
-<img width="1002" alt="Screenshot 2024-10-30 at 10 12 21 AM" src="https://github.com/user-attachments/assets/fa3ecac7-0f6c-452c-850c-4b620269a3dc">
 
 ## Some samples on Priv-IQ
 ![Priv-IQ example 1](https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c)
