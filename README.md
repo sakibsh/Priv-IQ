@@ -40,9 +40,9 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ## Claude 3 Opus Prediction Examples
 
-<img width="867" alt="Screenshot 2024-10-30 at 10 08 01 AM" src="https://github.com/user-attachments/assets/3da6e3f2-7321-4411-8e08-e3ddc3e84ac8">
+<img width="815" alt="Screenshot 2024-10-30 at 3 41 59 PM" src="https://github.com/user-attachments/assets/dca74650-b350-47ca-97e3-ecf22a7ada31">
+<img width="807" alt="Screenshot 2024-10-30 at 3 42 36 PM" src="https://github.com/user-attachments/assets/446109da-f445-45ef-a35d-bab67d72fba0">
 
-<img width="865" alt="Screenshot 2024-10-30 at 10 08 13 AM" src="https://github.com/user-attachments/assets/e9d30b11-4eeb-4b1f-813d-2fea1361ecf0">
 
 ## GPT-4o Prediction Examples
 
