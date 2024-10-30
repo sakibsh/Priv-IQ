@@ -38,6 +38,21 @@ python priv-iq_evaluator.py --priviq_path /path/to/priv-iq --result_file results
 ```
 If you cannot access GPT-4o, you can upload your model output results (JSON file) to Priv-IQ online evaluator [Hugging Face Space](https://huggingface.co/spaces/skb678/PRIV-IQ) to get the grading results.
 
+## Claude 3 Opus Prediction Examples
+
+<img width="867" alt="Screenshot 2024-10-30 at 10 08 01 AM" src="https://github.com/user-attachments/assets/3da6e3f2-7321-4411-8e08-e3ddc3e84ac8">
+
+<img width="865" alt="Screenshot 2024-10-30 at 10 08 13 AM" src="https://github.com/user-attachments/assets/e9d30b11-4eeb-4b1f-813d-2fea1361ecf0">
+
+## GPT-4o Prediction Examples
+
+<img width="864" alt="Screenshot 2024-10-30 at 10 10 07 AM" src="https://github.com/user-attachments/assets/c0f97b05-6f97-49fc-960b-8a1b9521d203">
+<img width="805" alt="Screenshot 2024-10-30 at 10 10 17 AM" src="https://github.com/user-attachments/assets/43f8382a-0499-4e19-9573-60a36e42705f">
+
+## Gemini 1.5 Pro Prediction Examples
+
+
+
 ## Some samples on Priv-IQ
 ![Priv-IQ example 1](https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c)
 
