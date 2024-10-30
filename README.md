@@ -51,7 +51,11 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ## Gemini 1.5 Pro Prediction Examples
 
+<img width="1033" alt="Screenshot 2024-10-30 at 10 11 37 AM" src="https://github.com/user-attachments/assets/453053ed-881f-43ce-a729-c152e61ec934">
 
+<img width="999" alt="Screenshot 2024-10-30 at 10 11 44 AM" src="https://github.com/user-attachments/assets/dbbd2ee8-fe0a-42c5-b5f0-67b03f2d34db">
+
+<img width="1002" alt="Screenshot 2024-10-30 at 10 12 21 AM" src="https://github.com/user-attachments/assets/fa3ecac7-0f6c-452c-850c-4b620269a3dc">
 
 ## Some samples on Priv-IQ
 ![Priv-IQ example 1](https://github.com/user-attachments/assets/172b7eb9-a804-4987-9d6d-979637da840c)
