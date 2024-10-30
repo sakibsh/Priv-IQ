@@ -61,7 +61,6 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 <img width="725" alt="Screenshot 2024-10-30 at 4 01 50 PM" src="https://github.com/user-attachments/assets/dfbb50f5-d70d-4d20-a5eb-59f734ffb00c">
 
 ## Gemini 1.5 Flash Prediction Examples
-<img width="725" alt="Screenshot 2024-10-30 at 4 01 50 PM" src="https://github.com/user-attachments/assets/60db0923-6bbd-4d16-8e19-198de543853f">
 <img width="916" alt="Screenshot 2024-10-30 at 4 03 39 PM" src="https://github.com/user-attachments/assets/dcc4ceff-ba37-4a9c-b3bb-d7f821a3675a">
 
 ## Deepseek VL Prediction Examples
