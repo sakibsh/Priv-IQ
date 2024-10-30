@@ -51,8 +51,11 @@ If you cannot access GPT-4o, you can upload your model output results (JSON file
 
 ## GPT-4o Prediction Examples
 
-<img width="864" alt="Screenshot 2024-10-30 at 10 10 07 AM" src="https://github.com/user-attachments/assets/c0f97b05-6f97-49fc-960b-8a1b9521d203">
-<img width="805" alt="Screenshot 2024-10-30 at 10 10 17 AM" src="https://github.com/user-attachments/assets/43f8382a-0499-4e19-9573-60a36e42705f">
+<img width="1024" alt="Screenshot 2024-10-30 at 3 54 55 PM" src="https://github.com/user-attachments/assets/71bcb24d-9221-4b99-aa45-b22cb2541ebf">
+<img width="1012" alt="Screenshot 2024-10-30 at 3 55 22 PM" src="https://github.com/user-attachments/assets/5b97dc4c-7532-49a4-a93c-efcc8fd1726b">
+
+## GPT-4o Mini Prediction Examples
+<img width="729" alt="Screenshot 2024-10-30 at 3 58 32 PM" src="https://github.com/user-attachments/assets/d6d5af87-86c6-4a1b-8ccb-43a1188a2b4c">
 
 ## Gemini 1.5 Pro Prediction Examples
 
