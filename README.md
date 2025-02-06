@@ -27,6 +27,32 @@ Priv-IQ includes a new multimodal benchmark focusing on core privacy competencie
     </ul>
 </div>
 
+## Referencing
+
+<div style="font-family: 'Arial', sans-serif; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #003366; text-align: center;">📜 Citation 📜</h2>
+    <p>If you use Priv-IQ in a scientific publication, please consider citing the following paper:</p>
+    <p>
+        Shahriar, S., & Dara, R. (2025). <a href="https://doi.org/10.3390/ai6020029" style="color: #007bff; text-decoration: none;">
+        Priv-IQ: A Benchmark and Comparative Evaluation of Large Multimodal Models on Privacy Competencies</a>. <i>AI, 6(2), 29.</i>
+    </p>
+    <h3 style="color: #003366;">BibTeX Entry</h3>
+    <pre style="background-color: #f0f0f0; padding: 15px; border-radius: 5px; overflow: auto; font-family: 'Courier New', monospace; font-size: 0.9em;">
+@Article{ai6020029,
+  AUTHOR = {Shahriar, Sakib and Dara, Rozita},
+  TITLE = {Priv-IQ: A Benchmark and Comparative Evaluation of Large Multimodal Models on Privacy Competencies},
+  JOURNAL = {AI},
+  VOLUME = {6},
+  YEAR = {2025},
+  NUMBER = {2},
+  ARTICLE-NUMBER = {29},
+  URL = {https://www.mdpi.com/2673-2688/6/2/29},
+  ISSN = {2673-2688},
+  ABSTRACT = {Large language models (LLMs) and generative artificial intelligence (AI) have demonstrated notable capabilities, achieving human-level performance in intelligent tasks like medical exams. Despite the introduction of extensive LLM evaluations and benchmarks in disciplines like education, software development, and general intelligence, a privacy-centric perspective remains underexplored in the literature. We introduce Priv-IQ, a comprehensive multimodal benchmark designed to measure LLM performance across diverse privacy tasks. Priv-IQ measures privacy intelligence by defining eight competencies, including visual privacy, multilingual capabilities, and knowledge of privacy law. We conduct a comparative study evaluating seven prominent LLMs, such as GPT, Claude, and Gemini, on the Priv-IQ benchmark. Results indicate that although GPT-4o performs relatively well across several competencies with an overall score of 77.7%, there is room for significant improvements in capabilities like multilingual understanding. Additionally, we present an LLM-based evaluator to quantify model performance on Priv-IQ. Through a case study and statistical analysis, we demonstrate that the evaluator’s performance closely correlates with human scoring.},
+  DOI = {10.3390/ai6020029}
+}
+    </pre>
+</div>
 
 ## Evaluate your model on Priv-IQ
 **Step 0**: Install openai package with `pip install openai>=1` and get access GPT-4/GPT-3.5 API. If you do not have access, you can try the Priv-IQ online evaluator [Hugging Face Space](https://huggingface.co/spaces/skb678/PRIV-IQ) (but it may require a long time depending on the number of users).
