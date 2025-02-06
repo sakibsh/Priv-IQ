@@ -7,11 +7,13 @@ Priv-IQ includes a new multimodal benchmark focusing on core privacy competencie
 
 <img width="1097" alt="Screenshot 2024-10-29 at 8 07 06 PM" src="https://github.com/user-attachments/assets/8c99c19e-99b5-4f8d-9865-306aff410e02">
 
-[<a href="https://arxiv.org/abs/2308.02490">Paper Coming Soon</a>] 
+[<a href="https://www.mdpi.com/2673-2688/6/2/29">Paper Available Open Access🔓 </a>] 
 [<a href="https://github.com/sakibsh/Priv-IQ/releases/download/data/Priv-IQ.zip">Download Dataset</a>]
 [<a href="https://huggingface.co/spaces/skb678/PRIV-IQ/tree/main/privIQ">Dataset on Hugging Face</a>]
 [<a href="https://huggingface.co/spaces/skb678/PRIV-IQ">Online Evaluator</a>]
 
+2025/02/04  :Rolled-Up Newspaper: :Rolled-Up Newspaper: Our paper has been accepted for publication in the MDPI AI Journal (IF: 3.1).
+2025/01/02  :Chart with Upwards Trend: :Chart with Upwards Trend: GPT-4o demonstrates the best performance on our benchmark with an overall score of 77.7%.
 2024/10/29: :fire: :fire: We release [**Priv-IQ**](v2/), the first-ever privacy benchmark for large multimodal models measuring eight core privacy competencies.
 
 
