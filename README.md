@@ -12,6 +12,21 @@ Priv-IQ includes a new multimodal benchmark focusing on core privacy competencie
 [<a href="https://huggingface.co/spaces/skb678/PRIV-IQ/tree/main/privIQ">Dataset on Hugging Face</a>]
 [<a href="https://huggingface.co/spaces/skb678/PRIV-IQ">Online Evaluator</a>]
 
+<div style="font-family: 'Arial', sans-serif; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <h2 style="color: #003366; text-align: center;">🚀 Latest Updates 🚀</h2>
+    <ul style="list-style: none; padding: 0;">
+        <li style="padding: 10px; font-size: 1.1em; border-bottom: 1px solid #ddd;">
+            <strong>2025/02/04 📰📰</strong> Our paper has been accepted for publication in the <strong>MDPI AI Journal</strong> (IF: 3.1).
+        </li>
+        <li style="padding: 10px; font-size: 1.1em;">
+            <strong>2025/01/02 📈📈</strong> GPT-4o demonstrates the best performance on our benchmark with an overall score of <strong>77.7%</strong>.
+        </li>
+        <li style="padding: 10px; font-size: 1.1em;">
+            <strong>2024/10/29 🔥🔥</strong> We release <a href="v2/" style="color: #007bff; text-decoration: none;"><strong>Priv-IQ</strong></a>, the first-ever privacy benchmark for large multimodal models measuring <strong>eight core privacy competencies</strong>.
+        </li>
+    </ul>
+</div>
+
 2025/02/04  :Rolled-Up Newspaper: :Rolled-Up Newspaper: Our paper has been accepted for publication in the MDPI AI Journal (IF: 3.1).
 2025/01/02  :Chart with Upwards Trend: :Chart with Upwards Trend: GPT-4o demonstrates the best performance on our benchmark with an overall score of 77.7%.
 2024/10/29: :fire: :fire: We release [**Priv-IQ**](v2/), the first-ever privacy benchmark for large multimodal models measuring eight core privacy competencies.
