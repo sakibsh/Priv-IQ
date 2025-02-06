@@ -27,10 +27,6 @@ Priv-IQ includes a new multimodal benchmark focusing on core privacy competencie
     </ul>
 </div>
 
-2025/02/04  :Rolled-Up Newspaper: :Rolled-Up Newspaper: Our paper has been accepted for publication in the MDPI AI Journal (IF: 3.1).
-2025/01/02  :Chart with Upwards Trend: :Chart with Upwards Trend: GPT-4o demonstrates the best performance on our benchmark with an overall score of 77.7%.
-2024/10/29: :fire: :fire: We release [**Priv-IQ**](v2/), the first-ever privacy benchmark for large multimodal models measuring eight core privacy competencies.
-
 
 ## Evaluate your model on Priv-IQ
 **Step 0**: Install openai package with `pip install openai>=1` and get access GPT-4/GPT-3.5 API. If you do not have access, you can try the Priv-IQ online evaluator [Hugging Face Space](https://huggingface.co/spaces/skb678/PRIV-IQ) (but it may require a long time depending on the number of users).
